@@ -1,0 +1,1 @@
+https://github.com/wangzzh29/spring-cloud-config.git
